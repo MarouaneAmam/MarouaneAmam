@@ -1,51 +1,34 @@
-<h1 align="center">👋 Salut, je suis Marouane Amam</h1>
-<h3 align="center">Étudiant en Master 2 CCI – Systèmes d’Information Répartis et Réseaux (Université Claude Bernard Lyon 1)</h3>
+<h1 align="center">👋 Hi, I'm Marouane Amam</h1>
+<h3 align="center">Cloud & Network Enthusiast | Distributed Systems Engineer in training</h3>
 
 ---
 
-### 🚀 À propos de moi
-🎓 Passionné par les **systèmes distribués, le cloud computing et les réseaux**  
-💡 Je construis des projets autour de **Docker, OpenStack, et AWS**  
-🧠 En apprentissage continu : **C++, Python, et automatisation sous Linux**  
-🌍 Basé à Lyon – Disponible pour un **stage de fin d’études (6 mois)**
+### 💼 About Me
+🎓 Master 2 CCI – Distributed Information Systems and Networks (Université Claude Bernard Lyon 1)  
+💡 Passionate about **Cloud Computing, Virtualization, and Network Automation**  
+☁️ Learning and building with **Docker, OpenStack, AWS and CI/CD tools**  
+🔍 Actively seeking a **6-month end-of-study internship** in Cloud & Network Engineering  
 
 ---
 
-### 🛠️ Compétences Techniques
-| Domaine | Compétences |
-|----------|-------------|
-| 🌐 Réseaux & Sécurité | LAN/WAN, IPv4/v6, OSPF, DHCP, DNS, Firewalls, SSH |
-| ☁️ Cloud & Virtualisation | AWS (EC2, S3, Lambda), GCP, Docker, OpenStack |
-| 💻 Systèmes & Scripts | Linux (Ubuntu/CentOS), Bash, Python |
-| 🧩 Bases de Données | SQL, PostgreSQL, UML, Merise |
-| ⚙️ Automatisation & DevOps | CI/CD, GitHub Actions, REST API, Supervision |
-| 📊 Outils | Power BI, Excel, JIRA, Trello |
+### 🧩 Skills & Technologies
+| Area | Skills |
+|------|--------|
+| Cloud | AWS (EC2, S3, Lambda), GCP, OpenStack |
+| Networking | LAN/WAN, IPv4/v6, DHCP, DNS, OSPF |
+| DevOps | Docker, GitHub Actions, CI/CD, Bash |
+| Programming | Python, C++, Java, SQL |
+| Systems | Linux (Ubuntu/CentOS), Automation Scripts |
 
 ---
 
-### 💼 Projets à découvrir
-📦 [**sirr-secure-flask-openstack**](https://github.com/MarouaneAmam/sirr-secure-flask-openstack)  
-> Déploiement d’un microservice Flask sécurisé sur une infrastructure Cloud OpenStack avec Docker, supervision et CI/CD.  
-> *Technos : Flask, Docker, OpenStack, CI GitHub Actions*
+### 📦 Highlighted Projects
+📁 [**Secure Flask Microservice – Cloud Deployment**](https://github.com/MarouaneAmam/sirr-secure-flask-openstack)  
+> Containerized Flask app with Docker & OpenStack integration.  
 
 ---
 
-### 🧰 Outils & Technologies que j’utilise
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,git,github,aws,postgresql,flask,bash,vscode" />
-</p>
-
----
-
-### 📈 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarouaneAmam&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarouaneAmam&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-### 📫 Me contacter
-📧 [marouane.amam@etu.unilim.fr](mailto:marouane.amam@etu.unilim.fr)  
-💼 [LinkedIn – Marouane Amam](https://www.linkedin.com/in/amam-marouane)
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marouane Amam-blue?logo=linkedin)](https://www.linkedin.com/in/amam-marouane)  
+[![GitHub](https://img.shields.io/badge/GitHub-MarouaneAmam-black?logo=github)](https://github.com/MarouaneAmam)
 
